@@ -1,4 +1,6 @@
 #Basic Calculator
+#Author: Saku Linnankoski
+#version: 1.1
 
 calculate = True	#Calculator is on
 
@@ -41,4 +43,3 @@ while calculate:
 			again = input("Calculate again?\n")
 		
 		break
-		
